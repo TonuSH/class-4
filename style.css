@@ -1,0 +1,31 @@
+h1{
+    color:crimson;
+    background-color: darkcyan;
+    font-size: 40px;
+    text-align: center;
+    width: 50vw;
+    height: 20vh;
+}
+h2{
+    color: blueviolet;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    text-decoration:underline;
+    text-decoration-style: dotted;
+    text-decoration-color: cadetblue;
+    font-family: serif;
+    word-spacing: 5px;
+    line-height:  30px;
+}
+address{
+    text-align: right;
+    color: blue;
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+
+}
